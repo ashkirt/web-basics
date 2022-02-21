@@ -1,0 +1,29 @@
+Reference Material for HTML,CSS,JS Basics:
+
+https://blog.hubspot.com/marketing/web-design-html-css-javascript
+https://www.itonlinelearning.com/blog/how-do-html-css-and-javascript-work-together/ 
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+https://developer.mozilla.org/en-US/docs/CSS/Getting_Started/Selectors
+https://developer.mozilla.org/en-US/docs/Web/Events
+www.w3schools.com/tags/default.asp
+
+
+Hands-On Exercise for HTML,CSS and Javascript basics:
+
+https://www.w3schools.com/
+https://codesandbox.io/s/browser-rendering-test-sample-basic-enqo2?file=/index.html
+
+
+
+Reference Links To Read more about DOM and DOM Events:
+
+https://www.geeksforgeeks.org/dom-document-object-model/
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
+https://www.javatpoint.com/understanding-html-dom-events
+
+Hands-on Exercises to run to manipulate DOM:
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples
+https://www.w3schools.com/js/js_htmldom_events.asp
