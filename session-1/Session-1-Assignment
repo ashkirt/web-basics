@@ -1,0 +1,152 @@
+Task 1:
+
+Here is a sample html file with a submit button. Now modify the style of the paragraph text through javascript code.
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>JS DOM paragraph style</title>
+</head> 
+<body>
+<p id ='text'>JavaScript Exercises - w3resource</p> 
+<div>
+<button id="jsstyle"
+onclick="js_style()">Style</button>
+</div>
+</body>
+</html>
+
+
+Task 2:
+
+Write a JavaScript function to get the values of First and Last name of the following form.
+
+<!DOCTYPE html>
+<html><head>
+<meta charset=utf-8 />
+<title>Return first and last name from a form - w3resource</title>
+</head><body>
+<form id="form1" onsubmit="getFormvalue()">
+First name: <input type="text" name="fname" value="David"><br>
+Last name: <input type="text" name="lname" value="Beckham"><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
+
+
+Task 3:
+
+Write a JavaScript program to set the background color of a paragraph.
+
+
+Task 4:
+
+Here is a sample html file with a submit button. Write a JavaScript function to get the value of the href, hreflang, rel, target, and type attributes of the specified link.
+
+<!DOCTYPE html>
+<html><head>
+<meta charset=utf-8 />
+</head>
+<body>
+<p><a id="w3r" type="text/html" hreflang="en-us" rel="nofollow" target="_self" href="https://www.w3resource.com/">w3resource</a></p>
+<button onclick="getAttributes()">Click here to get  attributes value</button>
+</body></html>
+
+
+Task 5:
+
+Write a JavaScript function to add rows to a table.Sample code is below:
+
+<!DOCTYPE html>
+<html><head>
+<meta charset=utf-8 />
+<title>Insert row in a table - w3resource</title>
+</head><body>
+<table id="sampleTable" border="1">
+<tr><td>Row1 cell1</td>
+<td>Row1 cell2</td></tr>
+<tr><td>Row2 cell1</td>
+<td>Row2 cell2</td></tr>
+</table><br>
+<input type="button" onclick="insert_Row()" value="Insert row"> 
+</body></html>
+
+
+Task 6:
+
+Write a JavaScript function that accept row, column, (to identify a particular cell) and a string to update the content of that cell.Use the sample code in Task 5 to achieve this task
+
+
+Task 7:
+
+Write a JavaScript program to count and display the items of a dropdown list, in an alert window.Sample HTMl is below :
+
+<!DOCTYPE html>
+<html><head>
+<meta charset=utf-8 />
+<style type="text/css">
+body {margin: 30px;}
+</style>   
+<title>Count and display items of a dropdown list - w3resource</title>
+</head><body><form>
+Select your favorite Color :
+<select id="mySelect">
+<option>Red</option>
+<option>Green</option>
+<option>Blue</option>
+<option>White</option>
+</select>
+<input type="button" onclick="getOptions()" value="Count and Output all items">
+</form></body></html>
+
+
+Task 8:
+
+Create a basic HTML page which should ask user input for Radius parameter.Also Write a JavaScript program to calculate the volume of a sphere and display on the page after user provides Radius input
+
+
+
+Task 9:
+
+Write a JavaScript conditional statement to find the largest of five numbers. Display an alert box to show the result. Go to the editor
+Sample numbers : -5, -2, -6, 0, -1
+Output : 0
+
+
+
+Task 10:
+
+Create a basic HTML page to take input string from end-user.Also Write a JavaScript function that checks whether a passed string is palindrome or not and then sent the result back on page as alert window on button click
+
+
+
+
+Task 11:
+
+
+Create a basic HTML page to take input string from end-user.Write a JavaScript function to  get the number of occurrences of each letter in specified string and show them in table in the HTML page on button click
+
+
+
+Task 12:
+
+Create a simple HTML page with dropdown box which has inputs for three different browsers.Once client selects the browser from drpdown,an alert should pop up on the page with browser name displayed?
+
+
+Task 13:
+
+Create a simple HTML page with string displayed as header.Also use javascript to implement - When user hover the mouse over the string,text color should change.
+
+
+Task 14:
+
+Create a basic HTML page which has an image displayed.Also Write a javascript which triggers an alert when image gets fully loaded on the page
+
+
+
+Task 15:
+
+Create a basic HTML page with input box to type string in lowercase.Write a javascript to change the entered text to uppercase when user releases a key?
+
